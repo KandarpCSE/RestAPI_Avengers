@@ -1,0 +1,261 @@
+12:42:00.757 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:42:00.777 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:42:00.781 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:42:00.782 +05:30 [Information] Hosting environment: "Development"
+12:42:00.782 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:42:13.664 +05:30 [Information] Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:42:15.415 +05:30 [Information] Response Time: 1747
+12:42:15.417 +05:30 [Information] Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: [{"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"},{"id":1001,"characterName":"Captain america","realName":"Wanda women","power":"Strong","description":"has sheild very powerfull","imageURl":""}]
+
+12:42:33.562 +05:30 [Information] Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero/1
+      Request Body: 
+
+12:42:33.675 +05:30 [Information] Response Time: 111
+12:42:33.675 +05:30 [Information] Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: {"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"}
+
+12:45:05.484 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:45:05.502 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:45:05.505 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:45:05.506 +05:30 [Information] Hosting environment: "Development"
+12:45:05.507 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:45:14.318 +05:30 [Information] -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12:45:14.327 +05:30 [Information] Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:45:15.402 +05:30 [Information] Response Time: 1072
+12:45:15.404 +05:30 [Information] Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: [{"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"},{"id":1001,"characterName":"Captain america","realName":"Wanda women","power":"Strong","description":"has sheild very powerfull","imageURl":""}]
+
+12:46:10.217 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:46:10.236 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:46:10.240 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:46:10.242 +05:30 [Information] Hosting environment: "Development"
+12:46:10.243 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:46:17.189 +05:30 [Information] ----------------------------------------------------------------------------------------------------------------
+12:46:17.195 +05:30 [Information] 
+    Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:46:18.279 +05:30 [Information] Response Time: 1081
+12:46:18.280 +05:30 [Information] Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: [{"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"},{"id":1001,"characterName":"Captain america","realName":"Wanda women","power":"Strong","description":"has sheild very powerfull","imageURl":""}]
+
+12:46:59.350 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:46:59.367 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:46:59.371 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:46:59.372 +05:30 [Information] Hosting environment: "Development"
+12:46:59.373 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:47:05.320 +05:30 [Information] ----------------------------------------------------------------------------------------------------------------
+12:47:05.327 +05:30 [Information] 
+          Http Request Information:
+      Schema:https
+         Host: localhost:7276
+         Path: /api/v1/SuperHero
+      Request Body: 
+
+12:47:06.399 +05:30 [Information] Response Time: 1070
+12:47:06.400 +05:30 [Information] Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: [{"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"},{"id":1001,"characterName":"Captain america","realName":"Wanda women","power":"Strong","description":"has sheild very powerfull","imageURl":""}]
+
+12:47:54.289 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:47:54.303 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:47:54.307 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:47:54.307 +05:30 [Information] Hosting environment: "Development"
+12:47:54.308 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:48:00.426 +05:30 [Information] ----------------------------------------------------------------------------------------------------------------
+12:48:00.433 +05:30 [Information] 
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:48:01.533 +05:30 [Information] Response Time: 1098
+12:48:01.534 +05:30 [Information] Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: [{"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"},{"id":1001,"characterName":"Captain america","realName":"Wanda women","power":"Strong","description":"has sheild very powerfull","imageURl":""}]
+
+12:48:43.984 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:48:44.008 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:48:44.014 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:48:44.015 +05:30 [Information] Hosting environment: "Development"
+12:48:44.015 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:48:47.926 +05:30 [Information] ----------------------------------------------------------------------------------------------------------------
+12:48:47.932 +05:30 [Information] 
+
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:48:49.014 +05:30 [Information] Response Time: 1080
+12:48:49.016 +05:30 [Information] Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: [{"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"},{"id":1001,"characterName":"Captain america","realName":"Wanda women","power":"Strong","description":"has sheild very powerfull","imageURl":""}]
+
+12:49:39.515 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:49:39.538 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:49:39.542 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:49:39.543 +05:30 [Information] Hosting environment: "Development"
+12:49:39.544 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:49:44.497 +05:30 [Information] 
+
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:49:45.570 +05:30 [Information] Response Time: 1069
+12:49:45.572 +05:30 [Information] 
+        Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: [{"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"},{"id":1001,"characterName":"Captain america","realName":"Wanda women","power":"Strong","description":"has sheild very powerfull","imageURl":""}]
+
+12:50:11.476 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:50:11.493 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:50:11.498 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:50:11.499 +05:30 [Information] Hosting environment: "Development"
+12:50:11.500 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:50:15.702 +05:30 [Information] 
+
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:50:16.802 +05:30 [Information] Response Time: 1096
+12:50:16.804 +05:30 [Information] 
+      Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: 
+[{"id":1,"characterName":"Iron Man","realName":"tony stark","power":"Iron and vibranium suite","description":"can fly also","imageURl":"D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\UploadedImage\\unnamed.webp"},{"id":1001,"characterName":"Captain america","realName":"Wanda women","power":"Strong","description":"has sheild very powerfull","imageURl":""}]
+
+12:50:52.633 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:50:52.651 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:50:52.656 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:50:52.657 +05:30 [Information] Hosting environment: "Development"
+12:50:52.658 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:50:56.998 +05:30 [Information] 
+
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:50:58.084 +05:30 [Information] Response Time: 1083
+12:54:30.435 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:54:30.454 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:54:30.458 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:54:30.459 +05:30 [Information] Hosting environment: "Development"
+12:54:30.460 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:54:37.715 +05:30 [Information] 
+
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:54:38.803 +05:30 [Information] Response Time: 1084
+12:54:38.806 +05:30 [Information] 
+      Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: 
+"[{\"id\":1,\"characterName\":\"Iron Man\",\"realName\":\"tony stark\",\"power\":\"Iron and vibranium suite\",\"description\":\"can fly also\",\"imageURl\":\"D:\\\\Test3\\\\SuperHeroAPI-DotNet6-master\\\\SuperHeroAPI\\\\UploadedImage\\\\unnamed.webp\"},{\"id\":1001,\"characterName\":\"Captain america\",\"realName\":\"Wanda women\",\"power\":\"Strong\",\"description\":\"has sheild very powerfull\",\"imageURl\":\"\"}]"
+
+12:55:00.958 +05:30 [Information] Now listening on: "https://localhost:7276"
+12:55:00.975 +05:30 [Information] Now listening on: "http://localhost:5276"
+12:55:00.979 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+12:55:00.980 +05:30 [Information] Hosting environment: "Development"
+12:55:00.980 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+12:55:05.838 +05:30 [Information] 
+
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+12:55:06.915 +05:30 [Information] Response Time: 1072
+14:00:25.810 +05:30 [Information] Now listening on: "https://localhost:7276"
+14:00:25.826 +05:30 [Information] Now listening on: "http://localhost:5276"
+14:00:25.829 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+14:00:25.830 +05:30 [Information] Hosting environment: "Development"
+14:00:25.830 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+14:04:02.940 +05:30 [Information] Now listening on: "https://localhost:7276"
+14:04:02.956 +05:30 [Information] Now listening on: "http://localhost:5276"
+14:04:02.959 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+14:04:02.960 +05:30 [Information] Hosting environment: "Development"
+14:04:02.961 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+14:04:07.820 +05:30 [Information] 
+
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero
+      Request Body: 
+
+14:04:09.733 +05:30 [Information] Response Time: 1909
+14:04:09.736 +05:30 [Information] 
+      Http Response Information:
+      StatusCode: 200
+      ContentType: application/json; charset=utf-8
+      Response Body: 
+"[{\"id\":1,\"characterName\":\"Iron Man\",\"realName\":\"tony stark\",\"power\":\"Iron and vibranium suite\",\"description\":\"can fly also\",\"imageURl\":\"D:\\\\Test3\\\\SuperHeroAPI-DotNet6-master\\\\SuperHeroAPI\\\\UploadedImage\\\\unnamed.webp\"},{\"id\":1001,\"characterName\":\"Captain america\",\"realName\":\"Wanda women\",\"power\":\"Strong\",\"description\":\"has sheild very powerfull\",\"imageURl\":\"\"}]"
+
+14:13:19.000 +05:30 [Information] Now listening on: "https://localhost:7276"
+14:13:19.014 +05:30 [Information] Now listening on: "http://localhost:5276"
+14:13:19.018 +05:30 [Information] Application started. Press Ctrl+C to shut down.
+14:13:19.019 +05:30 [Information] Hosting environment: "Development"
+14:13:19.020 +05:30 [Information] Content root path: "D:\Test3\SuperHeroAPI-DotNet6-master\SuperHeroAPI\"
+14:13:28.620 +05:30 [Information] 
+
+      Http Request Information:
+      Schema:https
+      Host: localhost:7276
+      Path: /api/v1/SuperHero/HeroImage/1
+      Request Body: 
+
+14:13:30.396 +05:30 [Information] Response Time: 1772
+14:13:30.453 +05:30 [Information] 
+      Http Response Information:
+      StatusCode: 200
+      ContentType: image/jpeg
+      Response Body: 
+"RIFFj\u001b\u0000\u0000WEBPVP8 ^\u001b\u0000\u0000С\u0000�\u0001* \u0001 \u0001>�@�H((%�0\u001a\t��\u0013�M�T,��Q2y'���zm�o�`���������-Ǵ�U��q���~��n`��{*w\u00038�p���׍z�\\���\u001c�k�91p�w\u0012���\u0005��2Jy\u000e�O��aQM�����i׎\u0000�Aq���1(Z����\u0013l�h�ϟ� \r\u001cى��`�\u0018���3�\u001a\u0013r?�/e�����\t�����d�h>'�����\rs>\u0007�\u0017%�\\1��$\\;�_!��\u0005��\f?�b��n���܏�Օ;��\u0010��g\u0014}(�ڔ��%ϼ�\u0004\u000b�P���aaX�\u0007b�[+.~�\u001d\u0001��w�$\u0000\f\u001f�Ȱ~\\�r�lLAipݖ��S�kf��M\u001c��\u0006K�{\u000e�\u0014���>+���2�:�\u0013,$l,HIXX؟C^�r�\u0003\u0003���\u00058�T�1JK*@�\u001a}@Gh�\b��I)A�Q��b��p�IN\u001a�\u001d��~vn\u001f�z#\u0013��߇��$>sP;�ճ����ݫ�|�J#�\u0016��q�\u0002'.McGc/�(P>\u000b!�\u0013\"\t�K�>8?�]d\u000eB[w[�0�\t�#�:�06R���\u0013���N:R����/M\u0011?�\u0010��?\u001a{�vI�{\u001a*��5`����\u0006���f���M\n\u0016/K?���4�7J7��j�֮���\u0002\t��\u001c�l�\u0005M�\u0019\f??_�7��'�\fvlHt��n�5��!*Q\u001b+g͸���8���:_\u001bD\n��a���\u0017g�]�c�\u0012Yu�\u001fa\u0014�l8��ٲ\u001b�\u0001�k�x93�pt�=�.L珰�D�8\f�0.\u0005\u000bԓ�]f�\u000bɠ�fH!9/P�&d}%b�lMQ�)?����z�M\u0014�\u0002\r\u0018���qY����9롣�td��N���m�a7�0\u0019�=�\n6-�e\u0019ԚxX'R�G�R ����0\"q�\f��� mn����Ϭ�h�\u0015�{wG��3݃{�\u0012�z��1y߉Ϸ�:\u0011\u0003���-\u0003�s:1R�z���\u00013Y9��\u0013���\u0019�t���?&��*�2��w;aӈ�]*�S�KÙP��8��]l�u��X;^u�!ڌ�\r�؂\u0006��\u0015�X?\u0013��3���E�mE_\u001f\tޯ��%6W�\n�_uv\t�퓕�8\u0015���v\\�[�K�������yx�v\u00043\u000f�zd��o�Fj\u000f䜟\u0017��ږ�\u0005��gק�2\u001f0���>�L�Zk/*�|��������hk���#&����D\u0016�F�\f�6{��\\�5�S�>\u0019���j��\f�&\r�x��\u001f�\u0002M�;s!��˥u;Ä\"�\u0013���T]�Ή�@PӜs�3E\b19�_^T|����\u0016o.S����W���\u0006�a��\u001a�\u0004�3�W+�UG������fL\u0000(>�\u0015\u000f�=�`�#�'HJ�t�'Q\u00172,L��B\u000fw�f��a\u0012X�B���L�2�-X�t/X�KC��\u0004\u001c;���\u0013\\_��P%8u�J|~_�U#�ɋ�,Zϸ�� �d�=fv���[{��ߣ�q��x�@��y���\u0007�\u0000�����\"�#�tn�Hb��o?�7����D�\u00174\u0014!\u001b�ف��CP��\f�;J(Db���\u001as�\u0000��\u0003\"�c�\u000e7KN�\r�7\u000b�5\u0002�v\u0017);+�Im|�%i�\u0014B\u0006�tS>��\u0017����\u0000K\\�Ƹ�L��\u000fY���Sʧ�<��t������4�۠3*��'���}\u0019<�]\u0015\u0014QJ\u001a�\u001b����\u00025�??�C���'�O���\u0002�^4�S�`�1�vZ\u001bG\u0019��\u0010���89L�.�p5�Q��\f�ɰ�r�O�O{�$\u0004H�V\u0003zl(3�*�G�Oeuf�c��\\UJ��D�̼o9\u000fiT��K*��\u001b���/��4��|�m��\u001f��\"�қ+�\u0004;Z\t\u0010��J��N�q��G98G��ઋN�����˽))5�󏊺d\u0006�\u0000��HX\u001a~�h>\u0000AV\u00138\u000b�h\tCX0\u0016��\u001dJ%�<�LJOG�+*\u0003g���\u0000[\u001c=k���Y^�*��O��\u000ek0��\u001aSk3�I�\\��\u001a��\u001b(*�Y\u000b��0\u0001���/�\u0016u8.vv��\u0004^\u0012<*���5P\u0001\u0013Q���w�$������S�\u000fc���Y&�Tf\u0006?�X�*�J�\u0007�D�r^V�\u001a�~��\f�\u0006�~6�Dm\u000f�O��{��?�2�����5\u0005�\u0014_�\f� \u0002�\u000e(>��eto��>�t\u000e\u0010\u0000aV�����\u0007#��؏�\u001ev�����&j��É�#2�!�\u0016y�5�\u0013oL�\"���_�\u0000�b�8�O.�0KX*\u0016�h~\u001dr�4\u0014� \u0010(\u0014�c}±��2\n��ˀ�:(��?�\u0010�]8O������خx\u0007h5\t�>������fΰN�u�ٳ\bZ\u001e���0�:F�묌�D�����.K\u000e�x\u0012\u0004�Xa\u0006���e��YW�\u001et���\u0011N//ϲA\u001a\u001c�r���#��\u0019?n\u0010�\u001d\u0010����cd�܊C��\u001e��\u0019\u0001��쨃����dx\u0002\u0017ro���&\u001a}��Jc�cc@|k䀹U�h�ʂ�B�P4�S\"�d$2o;�;�&\t�*�Ak�'r��J<\u0014s�mw���Ԅ��p�uƆ\"Ҿ��J*\u0015Hc!�Q��PH�CRyaHX��w�GF�\u001b�\u0003�\u0014�e�V��v�\u001bM�\u0016�v\u001cq��&jF�J)\u0014�m�.����Y�\u0003�HHt\u0012��\r2�W�Qm��n_\u0018\u0013&���l�|~�\u0011�#�3�Dܜ��\u0018j�����%�h'�B�?�~���d�u��%Y\u0014�\u0007s\u0011����Yaݟ�C�o�g5\u0001lr�EɅ\u0010_��\u001f�\u0007ǫ��3B�*�i�\"dC�4���T��\u0004�#���\u0001%��M��n~`�Mn4\u000e���f},�>\u0002];S���(֓�o \t���}�0Dv����\u0006}8N#��f�$F-E�$,�0��n��\u0007�\"������%q�\rm��C�\u000e�}q\r6\u0012#�'�\u001d\t��i\f\u000e:+8\u0012(G�[5�zMʾ�s�P�B\u0004 L�Q��o\u0014����2ίڈ���в�\u0004�[\f\u0001|��VT3r��\"k�\u001c��}Ť/�2\r����͋qOP\u0007ȱ\"\fZ2\u000e�\b\u001dp\u0002��N��H3���>�׽�\u001d����;U���𨺱�ɠt�N�^���k�\u0003\u000e[p�_�P�⤮��\u0002�(@k\u0007�\u0006��\u0013�)\u0018;p�(B��\b�봧;�8���\u0019��\u0005Y��:�H'�\u0012�\u0010�\\T6\u0002�Z�s#\u0018&3&2�Qb����� G5��F��U:���������҅7�i_=d�H\u001a$�Ӡ��ǻȡ{\u0004\u001a��\u000e8����q��o\r�#ݨ�ܐ\u0016�|�\u000b~\u0013��- ��j��\\�˥J�Ao�\u0010 \u0005�W1�}S��＇��2�c\u001d����a\u000f?CՃ�U ��Ӹ��V\u0003\\��:�r�}���'X�\u0017��]\u0001�\u001b&.�A_�|��mi*:}��\u0013(�\":�^D\u0000���v�\u001e-�\u0013���:�a�\u0015p��\u0013�mA��'\u0007\u001f��R=\u001bø��E�-]��f��_��b��F�qlh���)\u0015����@8K�e*�Ԑ��ձ\u0014\u001c\n�q��|����\u001d��1\b44;����qQ\t�)\\P�\u0010\u000b�+�4ڕ\u0016\u0017�R���!4̂�fζ��E�Z\u0013�㏦��38\r���|v�v絶�~�ȶI�4�\u0016)O��#���ЮVgpV�\u0018�Y)��\u0018\u0010�����\to\u0001\u00175�6/�߂�h�N\u001foX�R�Ad+H�����Qώj�c�y��H�R�!��8�i�ݤ�/\u000e� G\u00116|��p+�5�!i�1\t�����$y9�����j=%o&_��JH\u0010���M�\r��\u0014\b�\u001f�k\u0002M���\r2�T�\u0005�sH��9Xί{��\u0001�[�8�A�uV~mO\u0002<yn��%�4N�2a\u0013v\u000e��\t�8�\u0005\u000f�;��b�4\b�\u0005��\u000e3�l�2�\u0016N$;\u000b��8zZ�k��b����#�.��\u0011Nzhlʍ@t-\u001aJ�2W�W lH�\u000f���R_�𦣌�6p1�d�\u0018\rP\\�rv�k�샓\u000b���,3�\f���\u0006�7yx�$�(\u0018B�\u000f|������=�_0�\u0000Cq��v\u0015�\u0014��o�\u0000��\u0003�TA���ƻף�:�b)H�N���3OE�,��5)\u0015J\n2>�R �^F�\f��KD��7�\u001c�/(݁�;��*kD����*\\Q��\u001d�7���pM�\u001b�!$w ���\u001fP�\u001fx_I�n.�z��!�����]�y~Φ��;�\u001d�P�<Wt���\u0015\r܏\u001d]���A/�f\n�\u001d�\f�zRt����%��\u0007v��Q}�\u0007�J\u0015V\u000203\u0007y�v�u(M���\t��6���;�.��7)z��\u001b�~c�3\u0006?p\u001c���\f\u0003�h^�K@[G�Y�K���8��A��7�O��N���PC\u001d��}�\u0017\bovU|�T�\u0019[�ed�~�\f8\u000b���*Tk〻�H7�W�خM��T_ x^�E�u�Gnt�%��\t�h����Z�li�`�\u0005f��\u0013\u000b�\u000fl�\u001b�'\u0018s�\u0002;?I%D3!2�н\u0001�������$o\u0006�{�K��:���<���\u001c?�\u000e���\u0015�������?VMտ�ܳ��(|���\u0003c��K#\n�\u00196�\u0001!tM\u001dIe�t\u0004.lUQ��lY��$����s[�w\n�\u001dH,���\u0000v���O����r�1�&�]�C�\u00001�\u0005\u0006�pSph�j\u0006�ǯ�-c��\u000f\\H.=\fEׄ���-\u0007\u0015+��F�\u0001+����]F�+_l�B\u0001ĳ��\\�$غ��L�,���\u0005\u0019M�7t/�E-��[��D�T\u0018�ƙE��[����\u001cO�P<��7�(�w�٤\u000e��F�چ�\\5�S���B\u0004\u001dݲ��8Sy��0\u0002U�OZ�ᷘ�p����Ы�oW-m�}8����KӍ�\tI�g\u0002T�V�D\u001b�\u001e\u001a\u0016�܌�\u001aڌ���Ԍfx\t�S\r\u000e=\u0006*��_����#�u���-h�q��2D4Z\u0004p�Db������\u001be\u001eP��\u0010C�\f��6\u000f�|\u0016�[\u0007Q�4��\u0001:Me�l���[�\u0019��=|��22'\u0000\"������YK�'T�p!��\"��V`�\u0012̓�\u0004����\n�0��(���1��~B�\u000f��ޕNq\u000b1��9\u001c���3?rC�b݌�EI\u0002sm\b�\u001ffk��M��K!Xi\u0014�\u001ePs�,v.\u001f��3?\u000e/7�����67�ZKҞ�V\u0001��R!\u0011�VQU�#�D�ڒ[Q{Y1�V^`\nz&� /\"�_`\u000f\u0016���|����:����e�A&p�@��:�a\u0012s�з��Θd������<����\u0000H�/�N�>\u0019z��p��\u001e�U'�t�n�\u00015�//�\r��\u0007�瑞*wM\"�\u001b�Z�R\\|����\u001d<�6а��<\u0017\u0014\n�2��w%��s�6�!!,��]ݸ�L\u001c\\\u000b�\nu\u0005��m�\u0019x�Ty�՜Otr�$B�p�J\f#F0����&�#�(\u0018���\u000f\u0007\u001d���\u001c���LAa��vҮ���f��P��6�ޝ\"fZ�\u001a��\u0003�-3�ܶ�%�ebMy��U\n\f\u0001\u001d���\u000b�?w/37K�T�����E�%�Q��gIl��\u0017�n��5�\u0019C�qxie\u0001u�\u0019�?�\u001aJps�_�\u001aU׈#1'YWNjR��vX\u0001���=1p'�\u0010\u001f%ۘ�B�y�(�8o����\rF�\\\n\u000b\u0001�U\u0012ڨ����T~\u00004LfFDSh\"U8�of�`\u0000�Z ��l?��h\u0007�!Q�\u0003�\u001cSg�Y��9NnO�z]�-��O�S�����[�_�}�l׽7J�ֽW\u0005#�\"�轾s\u001fn�\u0016��o�\u0005x�\u0002\u001c��r\u0006Vtu�[\u000e��\u0005k�g\u0003�wjz����'�M�1!�ї�\u001e�0<��\u0001��s�֢e+�N�]�\u001a�,!���$ՋPQ��*ȷ�\u001c��\u0006T�Ok�hT-�@τC�O�\u0007�-!�\u001d���g�^�[�G!'P@�᪱\u0012�9�\\�]�9I[�g��\u0013��rm�M�ͯؐ\u0011c�\u001fz�\n��j\u000f��̔_[�\u001dz�ίԺ\u001d\u000e��p9�f5���l���\u0011\u0018�J�:�L�z�+t�J�Ł����� �\tCL\"\u0015�\"ЦF0�Q�R_�Ea�|\u001eő.槚\tI�P�\u000e��څ\u0004���<Y]\n��\u0016�\u0005���\b�X��\u000b\u0001υ��\u0016��\u0012@��\n陱j&\u0019����4ɻ/d$��\u0004��� @\u0007Gpf֟�C�����\u001e\f%��\u001a\u000b&Q�4\fx�\u0014�\u0001�\u0010��)�[��) WP|.!�*MM:��R�T8\u0013�(�9��i\u0003�q��0�*���lIޠV\u001b#�z��\u000b�\u0000�\u001b\u000b��!��N�X�l\u0019A��b�}v�KB�u�a��)Pi�F�Z�pE(a�\u0015�\u0004�,3]'~����,\u001f=.\u0010�^@�x)F�i�ί�^&/\u0014��<���O�%5J`i��y�ٶzm�F}ˈ�\u001d!����ͬ)$�'\r��/�����{nd�S\u001a�%K�\\���h\r��\u0003_}�bJ,\u0002s-O\n\u001eh.f�Z��;/�bQx�~�&\"~&������/.\u0000\u001e�����F\u001aN��\\�3�]#l�w�w��:��\u0004@\u001di���\u0014f�\u000e�u��\u0017�\u000f��\u000b\u0013fKO�|�\u000bף��#l�v���%�%c^��l��U�N�zXFB\u0014<\n�\u0017�[�G0�gg2��=�~����\u0019\u0011L�~�����M�\u0010����*�\u0018\u0007'�&���.zG�o*�#�߷�<_FO�\u0014xP'k\b\"a?�\u001c�%�Ѝ@\u001d�� ?A����\u000f\u0016G{�w�J�}kx�\\=��\n���X\u0015�\u001f`�4:V\u000f'J�+K��U�<��%A�!�\b0~$\u0006f���ӕ���W��VC�\u001cÏ\u001b~�/�B�N�0ٴ\\�SP�A�X�Y<\"��F���V5\u0014Ò�̶B�D��-*Brx#x��=b{H'\u0001�Zic!D F�Wn�d�s��{��\u001dYʹF�>�`�A�Ӡ�߰�#a%�Ǔ��\u001cw@\u001b�h\u001a��\u0016�#��?]hvP�R7���}M\b�p�\rQ+�*�\u0002�5\u0007P��h�Jd��c\"ŲZf�)5.�l�\u001e�H,���\u001a�25Ɩ.�t���:�b�h���\f?t/\u001c\u001c�>�]\u000e��%x`��JS\u0005�Ǯ\u0007�m�\u0016�f\u0010|<�\u0001�K̺�\u0001�6m\t��jN��R�%M��\u000e[�3�\u0011U\u0018\u0015�F2�9E*�\u0012\u0015\u000b�b%�|k�(-7\u0016\u0006W�q�A$\u0018ف\u0007 \u001a��<��B޵�v!��*CI�l�T�d��\u0003xp���@T�rBe��j�[�\u0010�ۋ���F�)���\u001c�a�H\u000e��f��\u001c96\u0010\u0000�\r'\r�a\u0000��Dm\n�¿x�G�\u0015�\f_\u001b����\u000f��退_�QA��[�]L��h���\b���\"8>�}1�ޘ�9�}u��\u0017o]R���Շ\f}�I\u0001�\u0011�1�\u0011L>U��wu�\u001c��\u0004��]\u000etg�j�q��K(�͵@s�T\u0015M�\u0006�tC1��\u000b�bV)+H�!M>\tEX���$c��(�(\u0019\u001f*dO\u000f8�\u0015��j�u�W�H�\u0016�\u0007�\u0010����q\u001ff4�q\u0012�r4��N�ô#VHX����K�O\u0000k6f�b�\u0004�\\q>ۤ\u001dW��謋3`����\u000f\u001bWvFƗ\u001c�\u0001��N���'\u0019E��\rO\u0014Ɯ\\���\u0004\u0010����\u0003\u0006间�t�T�i�����-x��O3:\u001ex�m�Ã<̛�&cַv�h\u0018C���\rC\u001a?\u0011 ̄�EG>��'�\u0006���\u0004~�^\u0005��cEP=`��W�K\u000fB�-\"|�t�t�\fl\n��\u0017ő\u0014��9Wu���v\r:�\u001f�P�iB�F\u001cs�\u0019�#;\u0012Q�:���[��2-)�^J_�p�\"����׀���tǌ�:ص��=ŭ���bM\u001c tƚ6g.[\u001aEb\u0014D�uY�3u���Z\\���v����Y�_� ��\u001c���Q['7��ȀID�\u0015[mg\u001aไ�6���\u000f\u0018���\nlm\u0000S$\u001f\u0012�*UP��u�$YF�\u0002�\r���$-�����\u0002\u001a�t��k\rIăs����\u0000��Ƀ�\u0011g!���ݸڮA�2\u0017�\u0012�0��\u0016\f�T\u0018gd\tX���,m�C�%{�\u001d�Ci[\u0013��D�.Lr\u0015��\u0002߅�h{m�\u0012\u0003qG-�C�\n\f�I�W9�9�o]�gw���PǬ\u0011����k\u0002=�Y�Z�\f�(�\u001c�j~��C���c�Eco��\u0004\u0019jxqZޅ\u000eTM(8a!���\u0001)�\">J�9 W���zd���>\u0002�D�Z�-��\u001cJ�>y>�\u0016�v=�|r1����\u0012�\t~ N�FoL����m]S=�u\u001e\u001f\u000f��\u0001��q�b����b\u001er��%\u0018�gd|U\u0000\u0016\u000egpR{����f`E4\u001e`7���ϗ\u0006/�Gt�m��׻�ngQm~|�\r�\u0017\b\u0018�N�F��w�\u000e񹙬W&\u0013N�����7$�\u001e��%�\"��M �&a\u001d s�n�S�\u0005U7�q\u000fm�H�mikl<<ڸ\u0016���\u0004^\u0014���\u0002���\u0002Zd��\u0001\t}��\u0004�\b:���[�+�`O\u000e\u0015�c$�8T\u001b\u0002�_])@\u0000\u0000"
+
