@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\SuperHeroAPI.csproj": {}
+    "C:\\Users\\Kandarp Patel\\Documents\\GitHub\\RestAPI_Avengers\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\SuperHeroAPI.csproj": {}
   },
   "projects": {
-    "D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\SuperHeroAPI.csproj": {
+    "C:\\Users\\Kandarp Patel\\Documents\\GitHub\\RestAPI_Avengers\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\SuperHeroAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\SuperHeroAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Kandarp Patel\\Documents\\GitHub\\RestAPI_Avengers\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\SuperHeroAPI.csproj",
         "projectName": "SuperHeroAPI",
-        "projectPath": "D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\SuperHeroAPI.csproj",
+        "projectPath": "C:\\Users\\Kandarp Patel\\Documents\\GitHub\\RestAPI_Avengers\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\SuperHeroAPI.csproj",
         "packagesPath": "C:\\Users\\Kandarp Patel\\.nuget\\packages\\",
-        "outputPath": "D:\\Test3\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\obj\\",
+        "outputPath": "C:\\Users\\Kandarp Patel\\Documents\\GitHub\\RestAPI_Avengers\\SuperHeroAPI-DotNet6-master\\SuperHeroAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kandarp Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",

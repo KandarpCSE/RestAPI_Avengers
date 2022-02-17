@@ -47,12 +47,13 @@ namespace SuperHeroAPI.Middleware
             context.Response.Body.Seek(0, SeekOrigin.Begin);
             var text = await new StreamReader(context.Response.Body).ReadToEndAsync();
             context.Response.Body.Seek(0, SeekOrigin.Begin);
-            var data = JsonConvert.SerializeObject(text);
+            //var data = JsonConvert.SerializeObject(text);
             _logger.LogInformation($"\n" +
                                    $"      Http Response Information:\n" +
                                    $"      StatusCode: {context.Response.StatusCode}\n" +
-                                   $"      ContentType: {context.Response.ContentType}\n" +
-                                   $"      Response Body: \n{data}\n");
+                                   $"      ContentType: {context.Response.ContentType}\n" 
+                                  // $"      Response Body: \n{text}\n"
+                                   );
             await responseBody.CopyToAsync(originalBodyStream);
         }
         private static string ReadStreamInChunks(Stream stream)
